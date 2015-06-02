@@ -1,0 +1,9 @@
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\bin\Debug\rssReader.exe.config
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\bin\Debug\rssReader.exe
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\bin\Debug\rssReader.pdb
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.Form1.resources
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.exe
+c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.pdb
