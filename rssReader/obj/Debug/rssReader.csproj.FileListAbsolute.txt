@@ -7,3 +7,12 @@ c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssRead
 c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.csproj.GenerateResource.Cache
 c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.exe
 c:\users\peter\documents\visual studio 2015\Projects\rssReader\obj\Debug\rssReader.pdb
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\bin\Debug\rssReader.exe.config
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\obj\Debug\rssReader.exe
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\obj\Debug\rssReader.pdb
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\bin\Debug\rssReader.exe
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\bin\Debug\rssReader.pdb
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\obj\Debug\rssReader.csprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\obj\Debug\rssReader.Form1.resources
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\obj\Debug\rssReader.Properties.Resources.resources
+\\files\students\s362686\Desktop\ppn_projekt-master\rssReader\obj\Debug\rssReader.csproj.GenerateResource.Cache

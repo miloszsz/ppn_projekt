@@ -61,9 +61,9 @@ namespace rssReader
         {
             savedLabel.Text = "";
             if (rssData[titlesComboBox.SelectedIndex, 1] != null)
-                descriptionTextBox.Text = rssData[titlesComboBox.SelectedIndex, 1];
+                webBrowser.DocumentText = rssData[titlesComboBox.SelectedIndex, 1];
             if (rssData[titlesComboBox.SelectedIndex, 2] != null)
-                linkLabel.Text = "Go to:" + rssData[titlesComboBox.SelectedIndex, 0];
+                linkLabel.Text = "Go to: " + rssData[titlesComboBox.SelectedIndex, 0];
         }
 
         private void linkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -90,18 +90,21 @@ namespace rssReader
         private void saveButton_Click(object sender, EventArgs e)
         {
             string title = titlesComboBox.Text;
-            string text = descriptionTextBox.Text;
+            string text = webBrowser.DocumentText;
 
             title = title.Replace(":","_");
             title = title.Replace("?", "_");
+            title = title.Trim();
 
             StreamWriter targetFile = new StreamWriter(title + ".txt");
-
             targetFile.Write(text);
-      
             targetFile.Close();
-
             savedLabel.Text = "Saved";
+        }
+
+        private void descriptionTextBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -32,9 +32,9 @@
             this.titlesComboBox = new System.Windows.Forms.ComboBox();
             this.linkLabel = new System.Windows.Forms.LinkLabel();
             this.channelTextBox = new System.Windows.Forms.TextBox();
-            this.descriptionTextBox = new System.Windows.Forms.TextBox();
             this.saveButton = new System.Windows.Forms.Button();
             this.savedLabel = new System.Windows.Forms.Label();
+            this.webBrowser = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
             // 
             // refreshButton
@@ -60,7 +60,7 @@
             // linkLabel
             // 
             this.linkLabel.AutoSize = true;
-            this.linkLabel.Location = new System.Drawing.Point(12, 235);
+            this.linkLabel.Location = new System.Drawing.Point(12, 445);
             this.linkLabel.Name = "linkLabel";
             this.linkLabel.Size = new System.Drawing.Size(71, 13);
             this.linkLabel.TabIndex = 2;
@@ -78,14 +78,6 @@
             this.channelTextBox.Click += new System.EventHandler(this.channelTextBox_Click);
             this.channelTextBox.TextChanged += new System.EventHandler(this.channelTextBox_TextChanged);
             this.channelTextBox.Enter += new System.EventHandler(this.channelTextBox_Enter);
-            // 
-            // descriptionTextBox
-            // 
-            this.descriptionTextBox.Location = new System.Drawing.Point(12, 68);
-            this.descriptionTextBox.Multiline = true;
-            this.descriptionTextBox.Name = "descriptionTextBox";
-            this.descriptionTextBox.Size = new System.Drawing.Size(390, 150);
-            this.descriptionTextBox.TabIndex = 4;
             // 
             // saveButton
             // 
@@ -105,14 +97,22 @@
             this.savedLabel.Size = new System.Drawing.Size(0, 13);
             this.savedLabel.TabIndex = 6;
             // 
+            // webBrowser
+            // 
+            this.webBrowser.Location = new System.Drawing.Point(12, 68);
+            this.webBrowser.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser.Name = "webBrowser";
+            this.webBrowser.Size = new System.Drawing.Size(644, 347);
+            this.webBrowser.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(433, 292);
+            this.ClientSize = new System.Drawing.Size(709, 511);
+            this.Controls.Add(this.webBrowser);
             this.Controls.Add(this.savedLabel);
             this.Controls.Add(this.saveButton);
-            this.Controls.Add(this.descriptionTextBox);
             this.Controls.Add(this.channelTextBox);
             this.Controls.Add(this.linkLabel);
             this.Controls.Add(this.titlesComboBox);
@@ -130,9 +130,9 @@
         private System.Windows.Forms.ComboBox titlesComboBox;
         private System.Windows.Forms.LinkLabel linkLabel;
         private System.Windows.Forms.TextBox channelTextBox;
-        private System.Windows.Forms.TextBox descriptionTextBox;
         private System.Windows.Forms.Button saveButton;
         private System.Windows.Forms.Label savedLabel;
+        private System.Windows.Forms.WebBrowser webBrowser;
     }
 }
 
