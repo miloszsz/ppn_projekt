@@ -1,0 +1,42 @@
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\bin\Debug\rssReaderWPF.exe.config
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\bin\Debug\rssReaderWPF.exe
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\bin\Debug\rssReaderWPF.pdb
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\App.g.cs
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF_MarkupCompile.cache
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF_MarkupCompile.lref
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\MainWindow.baml
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF.g.resources
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF.exe
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\rssReaderWPF\obj\Debug\rssReaderWPF.pdb
+C:\Users\Peter\Desktop\rssReaderWPF\bin\Debug\rssReaderWPF.exe.config
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.exe
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.pdb
+C:\Users\Peter\Desktop\rssReaderWPF\bin\Debug\rssReaderWPF.exe
+C:\Users\Peter\Desktop\rssReaderWPF\bin\Debug\rssReaderWPF.pdb
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\App.g.cs
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF_MarkupCompile.cache
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF_MarkupCompile.lref
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\MainWindow.baml
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.g.resources
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.Properties.Resources.resources
+C:\Users\Peter\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.csproj.GenerateResource.Cache
+\\files\students\s362686\Desktop\rssReaderWPF\bin\Debug\rssReaderWPF.exe.config
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.exe
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.pdb
+\\files\students\s362686\Desktop\rssReaderWPF\bin\Debug\rssReaderWPF.exe
+\\files\students\s362686\Desktop\rssReaderWPF\bin\Debug\rssReaderWPF.pdb
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.csprojResolveAssemblyReference.cache
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\MainWindow.g.cs
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\App.g.cs
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF_MarkupCompile.cache
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF_MarkupCompile.lref
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\MainWindow.baml
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.g.resources
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.Properties.Resources.resources
+\\files\students\s362686\Desktop\rssReaderWPF\obj\Debug\rssReaderWPF.csproj.GenerateResource.Cache
